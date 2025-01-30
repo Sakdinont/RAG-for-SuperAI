@@ -22,4 +22,3 @@ python-multipart
 faiss-cpu
 tiktoken
 watchdog
-llama-index-llms-llama-cpp
